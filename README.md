@@ -25,7 +25,7 @@ In this blog, I'll talk about key areas in the networking world that I consider 
     
 # Feedback
 
-If you have suggestions to improve the posts, please use [Issues](issues). Thank you!
+If you have suggestions to improve the posts, please use [Issues](https://github.com/beikacao/blog/issues). Thank you!
 
 # License
 
