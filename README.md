@@ -29,4 +29,4 @@ If you have suggestions to improve the posts, please use Issues.
 
 # License
 
-See LICENSE.
+See [LICENSE](LICENSE).
