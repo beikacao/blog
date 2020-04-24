@@ -15,8 +15,8 @@ In this blog, I'll talk about key areas in the networking world that I consider 
     - How can distributed learning help distributed network operations?
     
   - *Network Simulation & Verification*
-    - The evolution of nework simulation technologies & trade-offs
-    - The frontier of network verification methods
+    - The evolution of nework simulation/emulation technologies & trade-offs
+    - The frontiers of network verification methods
     
   - *Network Closed-Loop Control*
     - Goal: self-driving networks.
