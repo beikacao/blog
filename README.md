@@ -1,6 +1,6 @@
 # About
 
-This will be my personal technical blog. All opinions expressed are solely mine.
+This is my personal technical blog. All opinions expressed are solely mine.
 
 In this blog, I'll talk about key areas in the networking world that I consider important.
 
@@ -26,3 +26,7 @@ In this blog, I'll talk about key areas in the networking world that I consider 
 # Feedback
 
 If you have suggestions to improve the posts, please use Issues.
+
+# License
+
+See LICENSE.
