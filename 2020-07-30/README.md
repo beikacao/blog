@@ -1,46 +1,46 @@
 # Network Modeling - 2020-07-30
 
-![Slide1](Slide1.PNG)
+![Slide01](img/p01.png)
 
-![Slide2](Slide2.PNG)
+![Slide02](img/p02.png)
 
-![Slide3](Slide3.PNG)
+![Slide03](img/p03.png)
 
-![Slide4](Slide4.PNG)
+![Slide04](img/p04.png)
 
-![Slide5](Slide5.PNG)
+![Slide05](img/p05.png)
 
-![Slide6](Slide6.PNG)
+![Slide06](img/p06.png)
 
-![Slide7](Slide7.PNG)
+![Slide07](img/p07.png)
 
-![Slide8](Slide8.PNG)
+![Slide08](img/p08.png)
 
-![Slide9](Slide9.PNG)
+![Slide09](img/p09.png)
 
-![Slide10](Slide10.PNG)
+![Slide10](img/p10.png)
 
-![Slide11](Slide11.PNG)
+![Slide11](img/p11.png)
 
-![Slide12](Slide12.PNG)
+![Slide12](img/p12.png)
 
-![Slide13](Slide13.PNG)
+![Slide13](img/p13.png)
 
-![Slide14](Slide14.PNG)
+![Slide14](img/p14.png)
 
-![Slide15](Slide15.PNG)
+![Slide15](img/p15.png)
 
-![Slide16](Slide16.PNG)
+![Slide16](img/p16.png)
 
-![Slide17](Slide17.PNG)
+![Slide17](img/p17.png)
 
-![Slide18](Slide18.PNG)
+![Slide18](img/p18.png)
 
-![Slide19](Slide19.PNG)
+![Slide19](img/p19.png)
 
 # Feedback
 
-If you have suggestions to improve the posts, please use [Issues](https://github.com/beikacao/blog/issues). Thank you!
+If you have suggestions to improve the slides, please use [Issues](https://github.com/beikacao/blog/issues). Thank you!
 
 # License
 
