@@ -1,3 +1,5 @@
+# Network Modeling - 2020-07-30
+
 ![Slide1](Slide1.PNG)
 
 ![Slide2](Slide2.PNG)
@@ -35,3 +37,11 @@
 ![Slide18](Slide18.PNG)
 
 ![Slide19](Slide19.PNG)
+
+# Feedback
+
+If you have suggestions to improve the posts, please use [Issues](https://github.com/beikacao/blog/issues). Thank you!
+
+# License
+
+See [LICENSE](LICENSE).
