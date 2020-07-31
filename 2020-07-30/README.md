@@ -44,4 +44,4 @@ If you have suggestions to improve the posts, please use [Issues](https://github
 
 # License
 
-See [LICENSE](LICENSE).
+See [LICENSE](../LICENSE).
