@@ -1,4 +1,4 @@
-# Network Simulation & Verification - 2020-09-28
+# Network Simulation & Verification - Overview - 2020-09-28
 
 ![Slide01](img/p01.png)
 
