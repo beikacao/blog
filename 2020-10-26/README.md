@@ -1,4 +1,4 @@
-# Network Simulations & Verification Technologies - Hoyan Deep Dive (Revision 1) - 2020-10-26
+# Network Simulations & Verification Technologies - Hoyan Deep Dive - 2020-10-26
 
 ![Slide-01](img/p01.png)
 
