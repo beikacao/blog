@@ -1,4 +1,4 @@
-# 2022-01-19 - 2022-01-26
+# A Preliminary Survey for Cognitive Computing and Alternative Cognitive Models - 2022-01-19
 
 ![Slide-01](img/p01.png)
 

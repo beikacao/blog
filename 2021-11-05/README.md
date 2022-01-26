@@ -1,4 +1,4 @@
-# A Priliminary Survey for the Theorectical Foundation and Technology Landscape for ADN Level-5 - 2021-11-05
+# A Preliminary Survey for the Theorectical Foundation and Technology Landscape for ADN Level-5 - 2021-11-05
 
 ![Slide-01](img/p01.png)
 
