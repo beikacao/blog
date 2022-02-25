@@ -1,4 +1,4 @@
-# 2022-02-24 - 2022-02-25
+# Cognitive Computing vs Autonomic Computing / ADN Research Disciplines - 2022-02-24
 
 ![Slide-01](img/p01.png)
 
